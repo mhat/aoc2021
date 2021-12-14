@@ -72,3 +72,9 @@ To guarantee victory against the giant squid, figure out which board will win fi
 Answer is `Sum=859 * Last=68 = 58412`.
 
 -----
+
+TODO: Oops, missing Part2 Problem. 
+
+---- 
+
+Answer is `[41] bingo_num=59, last=59 * sum=170 = product=10030`
